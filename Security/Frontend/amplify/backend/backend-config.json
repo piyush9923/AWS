@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "internalprojectd53f51e6": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
